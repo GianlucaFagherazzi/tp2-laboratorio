@@ -1,0 +1,14 @@
+com\tp2\main\model\Cuenta.class
+com\tp2\main\service\ClienteService.class
+com\tp2\main\App.class
+com\tp2\main\model\Persona.class
+com\tp2\main\repository\InterfazCuentas.class
+com\tp2\main\model\Banco.class
+com\tp2\main\model\Cliente.class
+com\tp2\main\model\MovimientoCuenta.class
+com\tp2\main\repository\InterfazEstadoCuenta.class
+com\tp2\main\service\CuentaService.class
+com\tp2\main\repository\InterfazMenu.class
+com\tp2\main\repository\InterfazCliente.class
+com\tp2\main\service\MovimientoService.class
+com\tp2\main\repository\InterfazBasica.class

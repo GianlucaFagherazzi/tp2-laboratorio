@@ -1,0 +1,11 @@
+com\tp2\main\repositoryTest\InterfazEstadoCuentaTest.class
+com\tp2\main\serviceTest\ClienteServiceTest.class
+com\tp2\main\modelTest\ClienteTest.class
+com\tp2\main\modelTest\CuentaTest.class
+com\tp2\main\repositoryTest\InterfazCuentasTest.class
+com\tp2\main\modelTest\MovimientoCuentaTest.class
+com\tp2\main\repositoryTest\InterfazClienteTest.class
+com\tp2\main\AppTest.class
+com\tp2\main\modelTest\PersonaTest.class
+com\tp2\main\repositoryTest\InterfazMenuTest.class
+com\tp2\main\modelTest\BancoTest.class

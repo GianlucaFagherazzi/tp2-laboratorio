@@ -1,0 +1,1 @@
+cuando trato de hacer los testeos me tira error en las cadenas de string, intente solucionarlo de muchas maneras distintas pero no lo logre, son iguales las cadenas que salen en la consola pero siempre me dice que son distintas el testeo, asi que no logre solucionarlo.

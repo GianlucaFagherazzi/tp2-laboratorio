@@ -1,0 +1,1 @@
+model: Contendría las clases que representan los objetos fundamentales de tu sistema bancario, como Cliente, Cuenta, Movimiento, y TipoMovimiento. Estas clases definirían la estructura y el comportamiento de los objetos que manejarás en tu sistema.
